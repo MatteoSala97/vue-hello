@@ -10,8 +10,9 @@ const {createApp} = Vue
     createApp({
         data(){
             return {
-                message: "Hello Vue!",
-                image: "https://picsum.photos/300"
+                message1: "Hello Vue!",
+                image: "https://picsum.photos/300",
+                message2: "My name is Matteo and I'm bad at using Javascript",
             }
         }
     }).mount("#app")
