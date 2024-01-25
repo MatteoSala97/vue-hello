@@ -11,7 +11,7 @@ const {createApp} = Vue
         data(){
             return {
                 message1: "Hello Vue!",
-                image: "https://picsum.photos/300",
+                image: "bart.gif",
                 message2: "My name is Matteo and I'm bad at using Javascript",
             }
         }
